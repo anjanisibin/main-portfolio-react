@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/main-portfolio-react/static/css/main.cf8d5d1c.css",
+    "main.js": "/main-portfolio-react/static/js/main.06836ead.js",
+    "static/media/anju.jpg": "/main-portfolio-react/static/media/anju.649001fbf82a78233c16.jpg",
+    "static/media/anju-removebg.jpg": "/main-portfolio-react/static/media/anju-removebg.6b16355311bec58c7ba8.jpg",
+    "index.html": "/main-portfolio-react/index.html",
+    "main.cf8d5d1c.css.map": "/main-portfolio-react/static/css/main.cf8d5d1c.css.map",
+    "main.06836ead.js.map": "/main-portfolio-react/static/js/main.06836ead.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf8d5d1c.css",
+    "static/js/main.06836ead.js"
+  ]
+}
